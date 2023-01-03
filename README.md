@@ -1,7 +1,7 @@
 # utk-archive
-Contains all of my coursework from UTK 2019-2023
+<i>All of my coursework from UTK 2019-2023</i>
 
-Computer Science
+### Computer Science <br>
 Spring 2020
 * COSC102
     * Joshua Dunn
