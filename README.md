@@ -32,9 +32,8 @@
 * **COSC361: Operating Systems**
     * Micah Beck
     * Threads, operating system structure, process management, scheduling, synchronization, deadlock, memory management, virtual memory and demand paging, file system management and implementation, mass storage structure, protection, security, and distributed systems. 
-* **COSC366: Introduction to Cybersecurity**
-    * Jinyuan Sun
-    * A broad introduction to cybersecurity concepts. The class will introduce basic topics core to understanding computer security including security goals, threat modeling, software security, operating system security, cryptography, network security, and human factors. Coursework focuses on helping students adapt a security aware mindset when designing, developing, and testing systems.
+* [**COSC366: Introduction to Cybersecurity**](/COSC366)
+    * Fall 2022 // Jinyuan Sun
 * **COSC445: Fundamentals of Digital Archeology**
     * Audris Mockus
     * This is an advanced topic course focused on developing multi-disciplinary skills of discovering, retrieving, analyzing, and presenting operational data. Students will use critical thinking and intense practice solving real-world problems to recognize and address key operational issues: the lack of context, missing observations, and incorrect values. At the end of the course students will be able to discover operational data, to retrieve and store it, to recover context, to estimate the impact of missing events, to identify unreliable or incorrect values, and to present the results.
@@ -79,9 +78,8 @@
 * **EF303: Creating Synergies in Business and Engineering Collaboration**
     * Laura Jill Knight
     * The objective is to develop the skills and understanding to create effective cross disciplinary engineering and business teams. Students will work to understand the key requirements of projects from both the business and engineering perspective. Additionally, students will be able to apply basic engineering principles in a business context. Scenarios in new product development and operations will be considered. Topics may include identifying needs/key requirements, project management, and sensitivity analysis of solutions from the profit and loss perspective.
-* **ANTH120: Introduction to Archaeology**
-    * Karim Alizadeh
-    * Introduction to methods and techniques used to identify and date archaeological cultures, reconstruct past lifeways and describe cultural evolution. Overview of the prehistory of Africa, western Europe, southwest Asia, and the Americas from earliest dated human cultures to rise of complex civilizations.
+* [**ANTH120: Introduction to Archaeology**](/noncosci-courses/ANTH120/)
+    * Fall 2022 // Karim Alizadeh
 * **EF427: Honors: Interdisciplinary Senior Design I**
     * Richard Keith Stanfill
     * The first part of a two-course sequence where teams of students from both the Tickle College of Engineering and Haslam College of Business partner with industry sponsors to design and build authentic products and processes. Working closely with an industry liaison engineer and a faculty coach, students gain practical experience in teamwork and communication, problem-solving and engineering design, and develop leadership, management and people skills. Weekly workshop activities adapt lecture topics to individual projects. Students learn firsthand how to develop products and processes that meet customer requirements on time and within budget. The sequence is serving students in the Heath Integrated Business and Engineering Program (Heath IBEP) and others within the two colleges. 
