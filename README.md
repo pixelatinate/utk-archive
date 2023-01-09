@@ -34,9 +34,8 @@
     * Threads, operating system structure, process management, scheduling, synchronization, deadlock, memory management, virtual memory and demand paging, file system management and implementation, mass storage structure, protection, security, and distributed systems. 
 * [**COSC366: Introduction to Cybersecurity**](/COSC366)
     * Fall 2022 // Jinyuan Sun
-* **COSC445: Fundamentals of Digital Archeology**
-    * Audris Mockus
-    * This is an advanced topic course focused on developing multi-disciplinary skills of discovering, retrieving, analyzing, and presenting operational data. Students will use critical thinking and intense practice solving real-world problems to recognize and address key operational issues: the lack of context, missing observations, and incorrect values. At the end of the course students will be able to discover operational data, to retrieve and store it, to recover context, to estimate the impact of missing events, to identify unreliable or incorrect values, and to present the results.
+* [**COSC445: Fundamentals of Digital Archeology**](/COSC445)
+    * Fall 2022 // Audris Mockus
 
 ### Non-Computer Science
 * **ARTH183: Asian Art**

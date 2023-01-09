@@ -11,7 +11,7 @@ A broad introduction to cybersecurity concepts. The class will introduce basic t
     * [Programming Assignment 1](/COSC366_PA1.pdf)
     * [Writing Assignment 2](/COSC366_WA2.pdf)
     * [Writing Assignment 3](/COSC366_WA3.pdf)
-    * [Course Project]()
+    * [Course Project](/twitter-phishing)
     * [Programming Assignment 2](/COSC366_PA2.pdf)
     * [Writing Assignment 4](/COSC366_WA4.pdf)
 

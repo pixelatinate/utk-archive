@@ -1,0 +1,3 @@
+[submodule "COSC366/twitter-phishing"]
+	path = COSC366/twitter-phishing
+	url = https://github.com/pixelatinate/twitter-phishing.git
