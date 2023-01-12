@@ -11,5 +11,6 @@ This is an advanced topic course focused on developing multi-disciplinary skills
     * [MiniProject 1](/COSC445/MiniProject1/)
     * [MiniProject 2](/COSC445/MiniProject2/)
     * [MiniProject 3](/COSC445/MiniProject3/)
+    * [Course Project](https://github.com/pixelatinate/attitudes-towards-terror)
     
 
