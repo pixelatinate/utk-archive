@@ -14,4 +14,4 @@ Introduction to methods and techniques used to identify and date archaeological 
     * [Assignment 4](/noncosci-courses/ANTH120/Mishra_Swasti_ANTH120_Assignment4.pdf)
     * [Final Essays](/noncosci-courses/ANTH120/Mishra_Swasti_ANTH120_MidtermEssays.pdf)
 
-[[raw files](/ANTH120%20Docx)]
+[[raw files](/noncosci-courses/ANTH120/ANTH120%20Docx)]

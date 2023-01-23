@@ -29,9 +29,8 @@
 * **COSC370: Introduction to Scientific Computing**
     * Michael Berry
     * The design, analysis, and implementation of numerical algorithms for solving problems in science and engineering. Emphasis on program design, including data structures, computational complexity, scientific computing environments, and high-performance software packages.
-* **COSC361: Operating Systems**
-    * Micah Beck
-    * Threads, operating system structure, process management, scheduling, synchronization, deadlock, memory management, virtual memory and demand paging, file system management and implementation, mass storage structure, protection, security, and distributed systems. 
+* [**COSC361: Operating Systems**]()
+    * Fall 2022 // Micah Beck
 * [**COSC366: Introduction to Cybersecurity**](/COSC366)
     * Fall 2022 // Jinyuan Sun
 * [**COSC445: Fundamentals of Digital Archeology**](/COSC445)
