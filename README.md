@@ -17,9 +17,8 @@
 * **COSC311: Discrete Structures**
     * Michael Berry
     * Sets, functions, relations, equivalence relations, partial orderings and proof techniques, especially mathematical induction. Application of proof techniques to prove correctness of algorithms. Introduction to basic counting and combinatorics.
-* **COSC312: Algorithm Analysis and Automata**
-    * Michael W Berry
-    * Counting and combinatorics, with applications to the analysis of algorithms. Introduction to finite automata and regular languages, and to pushdown automata and context free grammars.
+* [**COSC312: Algorithm Analysis and Automata**](/COSC312)
+    * Spring 2022 // Michael Berry
 * **COSC340: Foundations of Software Engineering**
     * David Reid
     * Introduction to software processes that can be used on large projects to help design, manage, maintain, and test software.
@@ -29,7 +28,7 @@
 * **COSC370: Introduction to Scientific Computing**
     * Michael Berry
     * The design, analysis, and implementation of numerical algorithms for solving problems in science and engineering. Emphasis on program design, including data structures, computational complexity, scientific computing environments, and high-performance software packages.
-* [**COSC361: Operating Systems**]()
+* [**COSC361: Operating Systems**](/COSC361)
     * Fall 2022 // Micah Beck
 * [**COSC366: Introduction to Cybersecurity**](/COSC366)
     * Fall 2022 // Jinyuan Sun
