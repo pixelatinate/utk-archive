@@ -26,8 +26,7 @@
     * James S Plank
     * In-depth introduction to C and its use in system programming. Introduction to memory and process layout, system calls, buffering, file I/O, file systems, directories, metadata, assembly code, stack frames, memory management, process management, and interprocess communication.
 * **COSC370: Introduction to Scientific Computing**
-    * Michael Berry
-    * The design, analysis, and implementation of numerical algorithms for solving problems in science and engineering. Emphasis on program design, including data structures, computational complexity, scientific computing environments, and high-performance software packages.
+    * Summer 2022 // Michael Berry
 * [**COSC361: Operating Systems**](/COSC361)
     * Fall 2022 // Micah Beck
 * [**COSC366: Introduction to Cybersecurity**](/COSC366)
