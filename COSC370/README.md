@@ -9,3 +9,5 @@ The design, analysis, and implementation of numerical algorithms for solving pro
 * Assignments
     * [Homework 1](/COSC370/smishr11.hw1.py)
     * [Homework 2](/COSC370/smishr11.hw2.py)
+    * [Homework 3](/COSC370/smishr11.hw3.py)
+    * [Homework 4](/COSC370/smishr11.hw4.py)
