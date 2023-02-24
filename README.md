@@ -25,7 +25,7 @@
 * **COSC360: Systems Programming**
     * James S Plank
     * In-depth introduction to C and its use in system programming. Introduction to memory and process layout, system calls, buffering, file I/O, file systems, directories, metadata, assembly code, stack frames, memory management, process management, and interprocess communication.
-* **COSC370: Introduction to Scientific Computing**
+* [**COSC370: Introduction to Scientific Computing**](/COSC370)
     * Summer 2022 // Michael Berry
 * [**COSC361: Operating Systems**](/COSC361)
     * Fall 2022 // Micah Beck
